@@ -1,5 +1,4 @@
-<h3>Hi 👋, I'm a programmer and web developer </h3>
-<h3 align="center">But I don't do much around github.</h3>
+<h3>Hi 👋, I'm a programmer and web developer. </h3>
 
 </p>
 
