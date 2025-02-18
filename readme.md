@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Adil</h1>
-<h6 align="center">A passionate learner. But don't do much around github.</h3>
+<h3>Hi 👋, I'm a programmer and web developer </h3>
+<h3 align="center">But I don't do much around github.</h3>
 
 </p>
 
