@@ -1,4 +1,4 @@
-<h2>Hi 👋<h2>
+<h3>Hi 👋</h3>
 <p>I'm a programmer and web developer. </p>
 
 <h3 align="left">Languages and Tools:</h3>
